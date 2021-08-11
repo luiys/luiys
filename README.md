@@ -1,4 +1,7 @@
 ### Hi, my name is Luis, I am a back-end web and mobile developer 😁💻
+#### Currently working at Alta Soluções, focusing on mobile applications for logistics systems.
+
+##
 
  <div>
   <a href="https://github.com/luiys">
