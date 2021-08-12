@@ -7,7 +7,7 @@
 - Communicative;
 - Advanced English, Fluent Portuguese, Basic Spanish, Basic Italian;
 
-> My apresentation video in portuguese: https://www.instagram.com/tv/CRrYFR5HA8w/?utm_medium=copy_link 
+> My presentation video in portuguese: https://www.instagram.com/tv/CRrYFR5HA8w/?utm_medium=copy_link 
 
 ##
 
