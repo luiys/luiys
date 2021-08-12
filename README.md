@@ -1,10 +1,11 @@
 ## Hi, my name is Luis, I am a back-end web and mobile developer 😁💻
 #### Currently working at Alta Soluções, focusing on mobile applications for logistics systems.
-#### React and React Native intermediate to advanced
-- Always learning more and more
-- When having a free time I like to create small web and mobile apps to improve my knowledge and help me in my job
-- Communicative
-- Advanced English, Fluent Portuguese, Basic Spanish, Basic Italian
+
+- React and React Native intermediate to advanced;
+- Always learning more and more;
+- When having a free time I like to create small web and mobile apps to improve my knowledge and help me in my job;
+- Communicative;
+- Advanced English, Fluent Portuguese, Basic Spanish, Basic Italian;
 
 > My apresentation video in portuguese: https://www.instagram.com/tv/CRrYFR5HA8w/?utm_medium=copy_link 
 
