@@ -58,6 +58,8 @@
     <a href = "mailto:luis.feitoza@altasolucoes.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     
    ![Snake animation](https://github.com/luiys/luiys/blob/output/github-contribution-grid-snake.svg)
+
+   [![trophy](https://github-profile-trophy.vercel.app/?username=luiys&theme=dracula)](https://github.com/luiys/github-profile-trophy)
    
   </div>
    
