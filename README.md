@@ -5,7 +5,6 @@
 - Typescript as main language;
 - React and React Native advanced for web and mobile apps;
 - NodeJS, Express and Sequelize advanced for back-end apis with databases;
-- Enthusiast of OSM (OpenStreetMap), OSRM (Open-source Routing Machine) and VROOM (Vehicle Routing Open-source Optimization Machine) for solving problems like Travelling Salesman Problem;
 - Always learning more and more;
 - When having a free time I like to create small web and mobile apps to improve my knowledge and help me in my job;
 - To practice my logic I also like to play chess;
