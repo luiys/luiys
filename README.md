@@ -12,6 +12,7 @@
 - Advanced English, Fluent Portuguese, Basic Spanish, Basic Italian;
 
 > [My portfolio](https://lg-feitoza-portfolio.vercel.app/)
+> 
 > [My personal blog](https://kiwicodemaster.gatsbyjs.io/)
 
 ##
