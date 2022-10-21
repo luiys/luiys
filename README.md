@@ -11,7 +11,8 @@
 - Communicative, with leadership spirit and also willing to teach;
 - Advanced English, Fluent Portuguese, Basic Spanish, Basic Italian;
 
-> [Click here to visit my personal blog](https://kiwicodemaster.gatsbyjs.io/)
+> [My portfolio](https://lg-feitoza-portfolio.vercel.app/)
+> [My personal blog](https://kiwicodemaster.gatsbyjs.io/)
 
 ##
 
