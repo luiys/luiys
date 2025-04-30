@@ -19,7 +19,28 @@
 - 🇪🇸 Spanish: Basic  
 - 🇮🇹 Italian: Basic
 
-> [Portfolio](https://lg-feitoza-portfolio.vercel.app/)
+## 🚀 Personal & Open Source Projects
+
+**Kiwi-Code** *(in deployment)*  
+A personal blog I created to share my experiences as a developer — both as a student and a professional.  
+*Technologies: React, Markdown*
+
+**lg-cli-tool**  
+An open source library published on NPM that scaffolds Node.js + TypeORM back-end projects.  
+It automatically sets up the project structure and database connection so you can focus on building your endpoints.  
+🔗 [npmjs.com/package/lg-cli-tool](https://www.npmjs.com/package/lg-cli-tool)
+
+**Xadrez React App**  
+A React-based chess app where you can play against **Stockfish**, the strongest chess AI in the world.  
+🔗 [xadrez-luiys.vercel.app](https://xadrez-luiys.vercel.app)
+
+**Diocese Map**  
+An interactive map showing the location of all Catholic churches in the Diocese of São Miguel Paulista.  
+🔗 [diocese-map.vercel.app](https://diocese-map.vercel.app)
+
+**Virtual Flight Control** *(in development)*  
+A Power BI-style web dashboard to display flight statistics from users on the **IVAO simulation network**.  
+Back end developed with **ASP.NET**, front end with **Vue 3**.
 
 ##
 
