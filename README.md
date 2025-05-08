@@ -21,9 +21,10 @@
 
 ## 🚀 Personal & Open Source Projects
 
-**Kiwi-Code** *(in deployment)*  
-A personal blog I created to share my experiences as a developer — both as a student and a professional.  
-*Technologies: React, Markdown*
+**Portfolio Luís Gustavo**
+A personal portfolio and blog I created to share my experiences as a developer — both as a student and a professional.  
+*Technologies: Astro, Markdown*
+🔗 [www.luisgustavo.me](https://www.luisgustavo.me)
 
 **lg-cli-tool**  
 An open source library published on NPM that scaffolds Node.js + TypeORM back-end projects.  
